@@ -1,25 +1,28 @@
-# Machine-Learning-Notes
-Notes made by mithun 
+# 🧠 Machine Learning Notes  
+Comprehensive notes curated and compiled by **Mithun Srinivas**  
+
+---
+
+## 📘 Repository Overview  
+This repository contains structured and concise notes designed to strengthen your understanding of **Machine Learning fundamentals and tools**.  
+
+### 📂 Contents  
+1. **Scikit-learn Notes** – by Mithun  
+2. **NumPy Notes**  
+3. **Pandas Notes**  
+4. **Complete ML Notes (Based on Andrew Ng’s Course)**  
+
+---
+
+## 🔗 Learning Resources  
+
+### 🎓 Andrew Ng – Stanford CS229 Machine Learning Lectures  
+📺 [Watch on YouTube](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=IN0rWrGrrEwG0Ptr)
+
+### 📊 StatQuest with Josh Starmer  
+📺 [Watch on YouTube](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&si=8u4l71GVm4oVloK4)
+
+---
 
 
-## This repo consist of the following
-
-1.Scikit learn-by Mithun
-2.Numpy
-3.Pandas
-4.Complete ML notes-Andrew Ng
-
-
-## Other resources for Machine learning
-
-### Andrew Ng Stanford lectures CS290
-
-https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=IN0rWrGrrEwG0Ptr
-
-###  StatQuest with Josh Starmer
-
-https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&si=8u4l71GVm4oVloK4
-
-
-
-
+> *Simple, conci*
