@@ -24,5 +24,3 @@ This repository contains structured and concise notes designed to strengthen you
 
 ---
 
-
-> *Simple, conci*
