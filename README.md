@@ -4,10 +4,10 @@ Notes made by mithun
 
 ## This repo consist of the following
 
-1.Scikit learn
+1.Scikit learn-by Mithun
 2.Numpy
 3.Pandas
-4.Andrew Ng ML notes
+4.Complete ML notes-Andrew Ng
 
 
 ## Other resources for Machine learning
