@@ -10,7 +10,8 @@ This repository contains structured and concise notes designed to strengthen you
 1. **Scikit-learn Notes** – by Mithun  
 2. **NumPy Notes**  
 3. **Pandas Notes**  
-4. **Complete ML Notes (Based on Andrew Ng’s Course)**  
+4. **Complete ML Notes (Based on Andrew Ng’s Course)**
+5. **Pytorch notes**  
 
 ---
 
