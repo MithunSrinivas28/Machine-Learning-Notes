@@ -4,7 +4,7 @@ Comprehensive notes curated and compiled by **Mithun Srinivas**
 ---
 
 ## 📘 Repository Overview  
-This repository contains structured and concise notes designed to strengthen your understanding of **Machine Learning fundamentals and tools**.  
+This repository contains structured and concise notes designed to strengthen your understanding of **Machine Learning and Deep Learning fundamentals and tools **.  
 
 ### 📂 Contents  
 1. **Scikit-learn Notes** – by Mithun  
@@ -23,5 +23,6 @@ This repository contains structured and concise notes designed to strengthen you
 ### 📊 StatQuest with Josh Starmer  
 📺 [Watch on YouTube](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&si=8u4l71GVm4oVloK4)
 
+### Deep learning Resources
 ---
 
