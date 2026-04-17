@@ -23,6 +23,9 @@ This repository contains structured and concise notes designed to strengthen you
 ### 📊 StatQuest with Josh Starmer  
 📺 [Watch on YouTube](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&si=8u4l71GVm4oVloK4)
 
+### Maths for Machine Learning 
+📺 [Watch on YouTube](https://youtu.be/1VSZtNYMntM?si=nighoMsZFIVPg65u)
+
 ### Deep learning Resources
 ---
 
