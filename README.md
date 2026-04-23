@@ -7,11 +7,12 @@ Comprehensive notes curated and compiled by **Mithun Srinivas**
 This repository contains structured and concise notes designed to strengthen your understanding of **Machine Learning and Deep Learning fundamentals and tools **.  
 
 ### 📂 Contents  
-1. **Scikit-learn Notes** – by Mithun  
-2. **NumPy Notes**  
-3. **Pandas Notes**  
-4. **Complete ML Notes (Based on Andrew Ng’s Course)**
-5. **Pytorch notes**  
+1. **Conceptual Notes** - by Mithun
+2. **Scikit-learn Notes** – by Mithun  
+3. **NumPy Notes**  
+4. **Pandas Notes**  
+5. **Complete ML Notes (Based on Andrew Ng’s Course)**
+6. **Pytorch notes**  
 
 ---
 
